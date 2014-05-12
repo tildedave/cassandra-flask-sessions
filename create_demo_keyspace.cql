@@ -1,0 +1,1 @@
+create keyspace "demo" with Replication={'class': 'SimpleStrategy', 'replication_factor': 2};
